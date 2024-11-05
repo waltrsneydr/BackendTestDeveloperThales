@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ThaleTestDeveloperServiceImplUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-05T17:25:09" hostname="WALTERPC" time="0.712">
+  <properties/>
+  <testcase name="testgetEmployeeById()" classname="ThaleTestDeveloperServiceImplUnitTest" time="0.712"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
